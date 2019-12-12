@@ -45,7 +45,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textStyle="bold"
-                android:text="tettttttttttttttttttttt"
+                android:text="name"
                 android:textSize="17sp"
                 android:layout_weight="1"
                 />
@@ -54,7 +54,7 @@
                 android:id="@+id/screenName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="texttttttttttttttttttttttt"
+                android:text="Screen name"
                 android:textSize="11sp"
                 android:layout_weight="1"
                 />
@@ -63,7 +63,7 @@
                 android:id="@+id/createdTime"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="textttttttttttttttt"
+                android:text="Date"
                 android:layout_weight="1"
                 android:textSize="12sp"
                 />

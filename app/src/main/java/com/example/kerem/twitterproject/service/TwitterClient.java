@@ -11,7 +11,8 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class TwitterClient {
 
     private static String url = "https://api.twitter.com/1.1/search/";
-    private static String token = "ENTER YOUR TOKEN";
+    private static String token = "AAAAAAAAAAAAAAAAAAAAACCT%2FQAAAAAANSJTHe58puqpCL4%2Fh%2F" +
+            "pZHqGCxcI%3DZtbKViWssX8nNlgfOI1LfK2BVZU9CjjjJMqus0hPxpha5gDiAX";
 
 
     public static Retrofit retrofitService() {

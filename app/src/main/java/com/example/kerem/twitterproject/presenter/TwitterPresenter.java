@@ -26,6 +26,8 @@ public class TwitterPresenter {
                 if(twitter==null){
                     view.EmptyValues();
                 }
+
+
                 else if(twitter!=null) {
                     if(String.valueOf(twitter.getStatuses()).equals("[]")){
                         view.UnknownValue();
